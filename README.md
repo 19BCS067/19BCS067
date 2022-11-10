@@ -1,7 +1,13 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm MARTIN JOY</h1>
 
-<h3 align="center"></h3>
+<p align="center">
+  <em>
+    This is ME, Martin Joy, a <b>final year</b> undergraduate from <a href="https://mcet.in/"> <b>Dr. Mahalingam college of engineering & technology</b>, pollachi</a>. <br>
+    A budding <b>Android Application Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming and optimistic character </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>e…
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19bcs067&label=Profile%20views&color=0e75b6&style=flat" alt="19bcs067" /> </p>
 
